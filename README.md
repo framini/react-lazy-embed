@@ -2,6 +2,10 @@
 
 React component for lazy loading heavy embeds like the one from YouTube. For now we only support YouTube videos but we might add support for Vimeo in the short term
 
+</a><a href="https://bundlephobia.com/result?p=@framini/react-lazy-embed@latest" target="\_parent">
+  <img alt="" src="https://badgen.net/bundlephobia/minzip/@framini/react-lazy-embed@latest" />
+</a>
+
 ## Install
 
 With Yarn
