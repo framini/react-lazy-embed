@@ -11,7 +11,7 @@ React component for lazy loading heavy embeds like the one from YouTube. For now
 With Yarn
 
 ```
-yarn install @framini/react-lazy-embed
+yarn add @framini/react-lazy-embed
 ```
 
 With NPM
